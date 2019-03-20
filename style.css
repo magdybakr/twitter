@@ -1,0 +1,72 @@
+                i.fab.fa-twitter {
+                    color: #1da1f2;
+                    padding-right: 2px;
+                }
+                
+                a.navbar-brand {
+                    color: #66757f !important;
+                    display: block;
+                    font-size: 13px;
+                    font-weight: bold;
+                    padding: 0 14px 0 4px;
+                }
+                
+                a.nav-link {
+                    color: #66757f !important;
+                    display: block;
+                    font-size: 13px;
+                    font-weight: bold;
+                    padding: 0 14px 0 4px;
+                }
+                
+                input.form-control.mr-sm-2 {
+                    background-color: #f5f8fa;
+                    border-radius: 21px;
+                    border: 1px solid #e6ecf0;
+                    -moz-box-sizing: border-box;
+                    box-sizing: border-box;
+                    color: #14171a;
+                    display: block;
+                    font-size: 12px;
+                    height: 32px;
+                    line-height: 16px;
+                    padding: 8px 32px 8px 12px;
+                    transition: all .2s ease-in-out;
+                    width: 100%;
+                }
+                
+                .top-nav-parent {
+                    border-bottom: .5px solid #ddd;
+                }
+                
+                .header {
+                    height: 340px;
+                    background-image: url("../images/header.jpg");
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                }
+                
+                img.img {
+                    border-radius: 50%;
+                    height: 50%;
+                    left: 69px;
+                    position: absolute;
+                    top: 238px;
+                    width: 16%;
+                }
+                
+                nav.navbar.navbar-expand-lg a:hover {
+                    border-bottom: 2px solid #1c94e0;
+                    color: #1c94e0;
+                }
+                
+                nav.navbar.navbar-expand-lg:hover .nav-link {
+                    color: #1c94e0;
+                }
+                /* @media (min-width:400px) {
+                .header img {
+                    width: 60%
+                } */
+                /* .sec-section {
+                    margin: 0 auto;
+                } */
